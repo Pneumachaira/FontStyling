@@ -1,0 +1,24 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+    color:antiquewhite;
+    background-color: black;
+    font-family: cursive;
+}
+span{
+    color:aquamarine;
+}
+h2{
+    background-color: blueviolet;
+    color:antiquewhite;
+    font-style: italic;
+    text-align: center;
+    font-weight: 400;
+}
+h3{
+    background-color: aquamarine;
+    color:blueviolet;
+    text-align: right;
+    text-decoration: underline;
+}
